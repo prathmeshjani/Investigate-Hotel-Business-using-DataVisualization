@@ -131,3 +131,33 @@ Resort hotels may be used more for vacations or recreation, so customers tend to
      - For times of the off season, companies may combine flexible and non-refundable rates. Or can provide a special discount but non-refundable.
 
 
+  2. The cancellation rate will be higher along with the length of stay booked at both types of hotels. Cancellation rates at City Hotels increased significantly with the lowest percentage less than one week in duration. Resort hotels also tend to experience an increase in cancellation rates but are more stagnant and for stays of less than 2 weeks and more than 1 month tend to have lower cancellation rates.
+     Business recommendation:
+     - The company can ensure that it has a solid order cancellation policy in place. This is to protect the company from the impacts, such as revenue loss. Companies can provide or explain terms and conditions before they place an order both in online and offline orders. This can include information about refunds, cancellation fees, etc. Tighter cancellation policies can have a big impact. In addition, it can also reduce fraudulent bookings.
+     - Do a pricing strategy and limit the number of nights. Limiting the number of nights on a flexible rate over a one week span. In addition, it only provides non-refundable rates for longer stays. This is done to increase revenue and reduce the risk of unwanted cancellations.
+     - For other cancellation prevention companies can improve services or provide good pre-stay services to increase customer satisfaction so that it will reduce their tendency to cancel their orders.
+    
+  3. The lowest order cancellation for both types of hotels occurred at a lead time of less than one month. City Hotel has the highest cancellation rate at 1 year lead time.
+
+     - Both types of hotels can consider reducing lead times. By limiting available booking timeframes, hotels can ensure that customers only book when they are sure they will be staying at the hotel, thereby reducing the possibility of cancellation.
+     - City Hotels may also consider increasing their room rates to improve their profit margins and lower cancellation rates. By increasing room rates, customers may be more likely to reconsider before canceling their order.
+     - Sending reminders via email about their booking. This is done in order to stay connected and show the level of service the company provides. The company can inform you that the deadline is coming soon with its cancellation policy.
+     - Instead of canceling orders, companies can offer to reschedule and sell rooms that still have long lead times.
+    
+
+
+Source :
+
+Delgado, Pablo. "Cancellations on Booking.com: 104% More than on the Hotel Website. Expedia, 31% More." Mirai, https://www.mirai.com/blog/cancellations-on-booking-com-104-more-than-on-the-hotel-website-expedia-31-more/.
+
+Delgado, Pablo. "Cancellations shooting up: implications, costs and how to reduce them". Mirai, https://www.mirai.com/blog/cancellations-shooting-up-implications-costs-and-how-to-reduce-them/
+
+LOEB, Tony. "Where do Cancellations come from?". Experience Hotel Blog, https://blog.experience-hotel.com/where-do-cancellations-come-from/.
+
+Travelline. "5 ways to decrease cancellation rate and retain customer loyalty". Travellin, https://www.travelline.pro/blog/5-ways-to-decrease-cancellation-rate-and-retain-customer-loyalty/
+
+Verot, Benjamin. "Everything you Need to Know About Hotel Cancellations". HotelMinder. https://www.hotelminder.com/everything-you-need-to-know-about-hotel-cancellations.
+
+Verot, Benjamin. "8 Tips to Reduce Last Minute Hotel Cancellations and No Shows". HotelMinder. https://www.hotelminder.com/8-tips-to-reduce-last-minute-hotel-cancellations-and-no-shows
+
+
