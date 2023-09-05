@@ -146,7 +146,7 @@ Resort hotels may be used more for vacations or recreation, so customers tend to
     
 
 
-Source :
+**Source :**
 
 Delgado, Pablo. "Cancellations on Booking.com: 104% More than on the Hotel Website. Expedia, 31% More." Mirai, https://www.mirai.com/blog/cancellations-on-booking-com-104-more-than-on-the-hotel-website-expedia-31-more/.
 
