@@ -40,7 +40,7 @@ Business performance analysis is an important key for companies to achieve succe
 **objective**
 Create data-based visualizations as insights for the hotel business
 
-# STAGE 1: Data Preprocessing
+# 📂 STAGE 1: Data Preprocessing
 
 **Data Overview**
 The dataset consists of 29 columns and 119390 rows for the period 2017 - 2019.  
@@ -58,9 +58,9 @@ Table 1 - Assessment Data Results
 
 | Data Assessment | Finding | Handling |
 | -------- | -------- | -------- |
-| Missing values | There are null values ​​for company, city, children, and agent | - company: filled with 0, indicating the guest is not from the company - agent: filled with 0, indicating the guest made a reservation independently or not through an agent - children: filled with 0, indicating the guest does not bring children - city: filled with 'Undefined', because the city is not known with certainty |
-| Inappropriate or inconsistent values | Meaning of 'Undefined' in the meal column | Values ​​of the meal column can be categorized into 2, namely 'With Meal' (Breakfast, Full Board, Dinner) and 'No Meal' (No Meal, Undefined) |
-| Anomaly data or unnecessary data |  - There are negative values ​​and outliers that are very far from the data distribution in the adr column - There are 180 data bookings that do not have guests. | Delete or drop these data rows |
+| Missing values | There are null values ​​for `company`, `city`, `children`, and `agent` | - `company`: filled with 0, indicating the guest is not from the company - `agent`: filled with 0, indicating the guest made a reservation independently or not through an agent - `children`: filled with 0, indicating the guest does not bring children - `city`: filled with 'Undefined', because the city is not known with certainty |
+| Inappropriate or inconsistent values | Meaning of 'Undefined' in the `meal` column | Values ​​of the meal column can be categorized into 2, namely 'With Meal' (Breakfast, Full Board, Dinner) and 'No Meal' (No Meal, Undefined) |
+| Anomaly data or unnecessary data |  - There are negative values ​​and outliers that are very far from the data distribution in the `adr` column - There are 180 data bookings that do not have guests. | Delete or drop these data rows |
 
 
 
@@ -145,7 +145,7 @@ City Hotels which are located in the city center and are frequently used for eve
 Resort hotels may be used more for vacations or recreation, so customers tend to stick more to their schedules and make fewer changes. Additionally, Resort Hotels that may target customers seeking a more exclusive experience, may be better able to maintain their order levels despite better offers elsewhere.
 
 
-# STAGE 3: Summary and Recommendations
+# 📂 STAGE 3: Summary and Recommendations
 
 1. Overall City Hotel is the most booked by customers. In both types of hotels, a significant increase in customers occurred during the holiday seasons, namely May-July and October-December.
    Business recommendation:
@@ -168,9 +168,9 @@ Resort hotels may be used more for vacations or recreation, so customers tend to
      - Sending reminders via email about their booking. This is done in order to stay connected and show the level of service the company provides. The company can inform you that the deadline is coming soon with its cancellation policy.
      - Instead of canceling orders, companies can offer to reschedule and sell rooms that still have long lead times.
     
+----
 
-
-**Source :**
+**Source:**
 
 Delgado, Pablo. "Cancellations on Booking.com: 104% More than on the Hotel Website. Expedia, 31% More." Mirai, https://www.mirai.com/blog/cancellations-on-booking-com-104-more-than-on-the-hotel-website-expedia-31-more/.
 
