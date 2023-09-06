@@ -99,17 +99,27 @@ This analysis focuses on the relationship between the duration of stay and the c
 
 
 ![download](https://github.com/prathmeshjani/Investigate-Hotel-Business-using-DataVisualization/assets/69078331/47948486-e45c-468b-97a2-822e0f2cf304)
-Figure 3 — City Hotel Cancellation Percentage Graph![download](https://github.com/prathmeshjani/Investigate-Hotel-Business-using-DataVisualization/assets/69078331/c935212b-efd6-45fc-97cd-4276346a1976)
+
+<p align = 'center'>
+Figure 3 — City Hotel Cancellation Percentage Graph
+</p>
+
+![download](https://github.com/prathmeshjani/Investigate-Hotel-Business-using-DataVisualization/assets/69078331/c935212b-efd6-45fc-97cd-4276346a1976)
 
 ![download](https://github.com/prathmeshjani/Investigate-Hotel-Business-using-DataVisualization/assets/69078331/47948486-e45c-468b-97a2-822e0f2cf304)
-Figure 4 — Resort Hotel Cancellation Percentage Graph
 
+<p align = 'center'>
+Figure 4 — Resort Hotel Cancellation Percentage Graph
+</p>
 
 City hotels also have a higher cancellation rate than resort hotels. This shows that many customers who book City Hotels tend to cancel their orders more often. City Hotels have a more centralized location in the city or urban area and are close to tourist and business spots, predictably many activities have to be arranged and perhaps due to other factors, many customers cancel their orders.
 
 ![image](https://github.com/prathmeshjani/Investigate-Hotel-Business-using-DataVisualization/assets/69078331/3cd45f85-8620-4fd9-b3aa-b67465e463a2)
 
+<p align = 'center'>
 Figure 5 — Trends in Hotel Booking Cancellations Based on Duration of Stay
+</p>
+
 
 
 Based on the duration of stay, it can be seen that the cancellation rate for hotel orders will tend to be higher along with the longer the duration of the stay, both at City Hotels and Resort Hotels. At City Hotel the cancellation rate increased more significantly with a percentage value below 50% for a duration of one week. For a duration of stay of more than four weeks, this Resort Hotel also has a lower cancellation rate. In essence, both types of hotels have a positive trend, where the longer the duration of stay, the higher the possibility of the order being canceled.
@@ -124,7 +134,11 @@ Analysis was conducted to determine the correlation between order cancellation a
 
 ![image](https://github.com/prathmeshjani/Investigate-Hotel-Business-using-DataVisualization/assets/69078331/cebb5383-4d74-4df4-afe7-8989c8502277)
 
+<p align = 'center'>
 Figure 6 — Trend of Hotel Booking Cancellation Based on Lead Time
+</p>
+
+
 
 
 The lowest order cancellation for both types of hotels occurred at a lead time of less than one month. The highest cancellation rate of up to 60% occurs at City Hotels with a lead time of 10 months to 1 year. Meanwhile, the Resort Hotel trend has a fairly stagnant cancellation rate with an average value of 40%.
