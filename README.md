@@ -9,14 +9,14 @@
 
 ## Table of Contents
 
- - [STAGE 0: Problem Statement](#📂-stage-0-problem-statement)
+ - [STAGE 0: Problem Statement](#-stage-0-problem-statement)
       - [Introduction](#Introduction)
       - [Business Questions](#business-questions)
       - [Objective](#business-questions)
-  - [STAGE 1: Data Preprocessing](#data-preprocessing)
+  - [STAGE 1: Data Preprocessing](#-stage-1-data-preprocessing)
       - [Data Overview](#data-overview)
       - [Data Assessment](#data-assessment)
-  - [STAGE 2: Data Analysis](#data-analysis)
+  - [STAGE 2: Data Analysis](#-stage-2-data-analysis)
       - [Monthly Hotel Booking Analysis Based on Hotel Type](#monthly-hotel-booking-analysis-based-on-hotel-type)
       - [Impact Analysis of Stay Duration on Hotel Bookings Cancellation Rates](#impact-analysis-of-stay-duration-on-hotel-bookings-cancellation-rates)
       - [Impact Analysis of Lead Time on Hotel Bookings Cancellation Rates](#impact-analysis-of-lead-time-on-hotel-bookings-cancellation-rates)
