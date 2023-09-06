@@ -134,7 +134,7 @@ Analysis was conducted to determine the correlation between order cancellation a
 
 ![image](https://github.com/prathmeshjani/Investigate-Hotel-Business-using-DataVisualization/assets/69078331/cebb5383-4d74-4df4-afe7-8989c8502277)
 <div align="center">
-  <img src="https://github.com/prathmeshjani/Investigate-Hotel-Business-using-DataVisualization/assets/69078331/cebb5383-4d74-4df4-afe7-8989c8502277" alt="Image Description" width="200" height="200" />
+  <img src="https://github.com/prathmeshjani/Investigate-Hotel-Business-using-DataVisualization/assets/69078331/cebb5383-4d74-4df4-afe7-8989c8502277" alt="Image Description" />
 </div>
 
 <p align = 'center'>
