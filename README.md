@@ -24,7 +24,7 @@
 
 ---- 
 
-# 📂 STAGE 0: Problem Statement
+## 📂 STAGE 0: Problem Statement
 
 **Introduction**
 
@@ -43,7 +43,7 @@ Create data-based visualizations as insights for the hotel business
 
 ----
 
-# 📂 STAGE 1: Data Preprocessing
+## 📂 STAGE 1: Data Preprocessing
 
 **Data Overview**
 The dataset consists of 29 columns and 119390 rows for the period 2017 - 2019.  
@@ -56,7 +56,6 @@ Data assessment is carried out to ensure that the data used for further analysis
   - Perform data type and value consistency
   - Check for outliers or unusual data
 
-
 Table 1 - Assessment Data Results
 
 | Data Assessment | Finding | Handling |
@@ -67,13 +66,13 @@ Table 1 - Assessment Data Results
 
 ----
 
-# 📂 STAGE 2: Data Analysis 
+## 📂 STAGE 2: Data Analysis 
 
-**1. Monthly Hotel Booking Analysis Based on Hotel Type**
+### 1. Monthly Hotel Booking Analysis Based on Hotel Type
 
 This analysis will be carried out to find out the trend of bookings for each type of hotel. This analysis can help companies better understand their market and customer needs, and enable them to improve operational efficiency and optimize revenue.
 
-![image](https://github.com/prathmeshjani/Investigate-Hotel-Business-using-DataVisualization/assets/69078331/a1fe3177-8717-43cf-8b8c-463547b4d75f)
+<!-- ![image](https://github.com/prathmeshjani/Investigate-Hotel-Business-using-DataVisualization/assets/69078331/a1fe3177-8717-43cf-8b8c-463547b4d75f) <!-->
 
 <div align="center">
   <img src="https://github.com/prathmeshjani/Investigate-Hotel-Business-using-DataVisualization/assets/69078331/a1fe3177-8717-43cf-8b8c-463547b4d75f" alt="Image Description" />
@@ -84,7 +83,7 @@ Figure 1 — City Hotel and Resort Hotel Ratio Percentage Graph
 
 From the above plot, it can be seen that City Hotels are more in demand by customers, with a percentage of bookings reaching 66.41%. These hotels are usually located in downtown or urban areas, close to attractions and businesses, so customers booking these hotels may have their main activity around where they are staying. On the other hand, Resort Hotels are only booked by 33.59% of customers. These hotels are usually located in beautiful places such as the seaside, mountains, or quiet rural areas and there are complete facilities. Customers who book this hotel allegedly have the goal of vacationing and relaxing in that place.
 
- ![download](https://github.com/prathmeshjani/Investigate-Hotel-Business-using-DataVisualization/assets/69078331/47948486-e45c-468b-97a2-822e0f2cf304)
+<!-- ![download](https://github.com/prathmeshjani/Investigate-Hotel-Business-using-DataVisualization/assets/69078331/47948486-e45c-468b-97a2-822e0f2cf304) <!-->
 <div align="center">
   <img src="https://github.com/prathmeshjani/Investigate-Hotel-Business-using-DataVisualization/assets/69078331/47948486-e45c-468b-97a2-822e0f2cf304" alt="Image Description" />
 </div>
@@ -99,12 +98,12 @@ Meanwhile, during the holiday season, from October to December, hotel bookings a
 In the period January - March, the lowest hotel booking rate. This is likely due to the small number of national holidays, and this period is the start of a new school year for students and not a period of busy business travel activities because it is still the beginning of the year.
 
 
-**2. Impact Analysis of Stay Duration on Hotel Bookings Cancellation Rates**
+### 2. Impact Analysis of Stay Duration on Hotel Bookings Cancellation Rates
 
 This analysis focuses on the relationship between the duration of stay and the cancellation rate of hotel bookings. Based on data, about 19% of hotel orders made online are canceled before the customer arrives [source]. These cancellations can lead to reduced room availability and an impact on hotel revenue because each vacant room can become a financial burden on that day. In addition, if the hotel uses an Online Travel Agency (OTA), this cancellation rate can affect the hotel's ranking in search [source].
 
 
-![image](https://github.com/prathmeshjani/Investigate-Hotel-Business-using-DataVisualization/assets/69078331/4ce5773f-6be4-4d68-8e31-0c172962b4da)
+<!-- ![image](https://github.com/prathmeshjani/Investigate-Hotel-Business-using-DataVisualization/assets/69078331/4ce5773f-6be4-4d68-8e31-0c172962b4da) <!-->
 <div align="center">
   <img src="https://github.com/prathmeshjani/Investigate-Hotel-Business-using-DataVisualization/assets/69078331/4ce5773f-6be4-4d68-8e31-0c172962b4da" alt="Image Description" />
 </div>
@@ -112,7 +111,7 @@ This analysis focuses on the relationship between the duration of stay and the c
 Figure 3 — City Hotel Cancellation Percentage Graph
 </p>
 
-![image](https://github.com/prathmeshjani/Investigate-Hotel-Business-using-DataVisualization/assets/69078331/abb2a463-7f12-462f-bd6e-c28b586ba60c)
+<!-- ![image](https://github.com/prathmeshjani/Investigate-Hotel-Business-using-DataVisualization/assets/69078331/abb2a463-7f12-462f-bd6e-c28b586ba60c) <!-->
 <div align="center">
   <img src="https://github.com/prathmeshjani/Investigate-Hotel-Business-using-DataVisualization/assets/69078331/abb2a463-7f12-462f-bd6e-c28b586ba60c" alt="Image Description" />
 </div>
@@ -122,7 +121,7 @@ Figure 4 — Resort Hotel Cancellation Percentage Graph
 
 City hotels also have a higher cancellation rate than resort hotels. This shows that many customers who book City Hotels tend to cancel their orders more often. City Hotels have a more centralized location in the city or urban area and are close to tourist and business spots, predictably many activities have to be arranged and perhaps due to other factors, many customers cancel their orders.
 
-![image](https://github.com/prathmeshjani/Investigate-Hotel-Business-using-DataVisualization/assets/69078331/3cd45f85-8620-4fd9-b3aa-b67465e463a2)
+<!-- ![image](https://github.com/prathmeshjani/Investigate-Hotel-Business-using-DataVisualization/assets/69078331/3cd45f85-8620-4fd9-b3aa-b67465e463a2) -->
 <div align="center">
   <img src="https://github.com/prathmeshjani/Investigate-Hotel-Business-using-DataVisualization/assets/69078331/3cd45f85-8620-4fd9-b3aa-b67465e463a2" alt="Image Description" />
 </div>
@@ -138,7 +137,7 @@ Why the longer the duration of the stay causes the cancellation rate to increase
 
 
 
-**3. Impact Analysis of Lead Time on Hotel Bookings Cancellation Rates**
+### 3. Impact Analysis of Lead Time on Hotel Bookings Cancellation Rates
 
 Analysis was conducted to determine the correlation between order cancellation and lead time. Lead time is the waiting period or the time between hotel bookings and arrival times.
 
@@ -158,7 +157,7 @@ Resort hotels may be used more for vacations or recreation, so customers tend to
 
 ----
 
-# 📂 STAGE 3: Summary and Recommendations
+## 📂 STAGE 3: Summary and Recommendations
 
 1. Overall City Hotel is the most booked by customers. In both types of hotels, a significant increase in customers occurred during the holiday seasons, namely May-July and October-December.<br>
    Business recommendation:
