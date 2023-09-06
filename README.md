@@ -112,8 +112,7 @@ This analysis focuses on the relationship between the duration of stay and the c
 <p align = 'center'>
 Figure 3 — City Hotel Cancellation Percentage Graph
 </p>
-
-<br> <br>
+<br> 
 <!-- ![image](https://github.com/prathmeshjani/Investigate-Hotel-Business-using-DataVisualization/assets/69078331/abb2a463-7f12-462f-bd6e-c28b586ba60c) <!-->
 <div align="center">
   <img src="https://github.com/prathmeshjani/Investigate-Hotel-Business-using-DataVisualization/assets/69078331/abb2a463-7f12-462f-bd6e-c28b586ba60c" alt="Image Description" />
@@ -151,6 +150,7 @@ Analysis was conducted to determine the correlation between order cancellation a
 <p align = 'center'>
 Figure 6 — Trend of Hotel Booking Cancellation Based on Lead Time
 </p>
+<br>
 
 The lowest order cancellation for both types of hotels occurred at a lead time of less than one month. The highest cancellation rate of up to 60% occurs at City Hotels with a lead time of 10 months to 1 year. Meanwhile, the Resort Hotel trend has a fairly stagnant cancellation rate with an average value of 40%.
 
@@ -161,8 +161,8 @@ Resort hotels may be used more for vacations or recreation, so customers tend to
 ----
 
 ## 📂 STAGE 3: Summary and Recommendations
-<br>
-   1. Overall City Hotel is the most booked by customers. In both types of hotels, a significant increase in customers occurred during the holiday seasons, namely May-July and October-December.<br>
+
+   1. Overall City Hotel is the most booked by customers. In both types of hotels, a significant increase in customers occurred during the holiday seasons, namely May-July and October-December.
    Business recommendation:
      - Companies can optimize the facilities and services at Resort Hotels, because Resort Hotels have a lower booking rate than City Hotels so that customers are more interested in booking rooms there. For example by adding facilities        such as a spa, gym or swimming pool, as well as providing more personal and friendly service to customers.
      - The company can also maximize the City Hotel strategy, because it is in great demand by customers so it is more profitable. Companies can provide additional services for businesses, such as hall rooms or packages for meetings           such as seminars and so on.
@@ -170,7 +170,7 @@ Resort hotels may be used more for vacations or recreation, so customers tend to
      - For times of the off season, companies may combine flexible and non-refundable rates. Or can provide a special discount but non-refundable.
 
 
-  2. The cancellation rate will be higher along with the length of stay booked at both types of hotels. Cancellation rates at City Hotels increased significantly with the lowest percentage less than one week in duration. Resort hotels also tend to experience an increase in cancellation rates but are more stagnant and for stays of less than 2 weeks and more than 1 month tend to have lower cancellation rates.<br>
+  2. The cancellation rate will be higher along with the length of stay booked at both types of hotels. Cancellation rates at City Hotels increased significantly with the lowest percentage less than one week in duration. Resort hotels also tend to experience an increase in cancellation rates but are more stagnant and for stays of less than 2 weeks and more than 1 month tend to have lower cancellation rates.<br> <br>
      Business recommendation:
      - The company can ensure that it has a solid order cancellation policy in place. This is to protect the company from the impacts, such as revenue loss. Companies can provide or explain terms and conditions before they place an order both in online and offline orders. This can include information about refunds, cancellation fees, etc. Tighter cancellation policies can have a big impact. In addition, it can also reduce fraudulent bookings.
      - Do a pricing strategy and limit the number of nights. Limiting the number of nights on a flexible rate over a one week span. In addition, it only provides non-refundable rates for longer stays. This is done to increase revenue and reduce the risk of unwanted cancellations.
