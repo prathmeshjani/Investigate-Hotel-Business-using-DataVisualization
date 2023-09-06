@@ -75,7 +75,9 @@ This analysis will be carried out to find out the trend of bookings for each typ
 
 ![image](https://github.com/prathmeshjani/Investigate-Hotel-Business-using-DataVisualization/assets/69078331/a1fe3177-8717-43cf-8b8c-463547b4d75f)
 
-
+<div align="center">
+  <img src="https://github.com/prathmeshjani/Investigate-Hotel-Business-using-DataVisualization/assets/69078331/a1fe3177-8717-43cf-8b8c-463547b4d75f" alt="Image Description" />
+</div>
 <p align = 'center'>
 Figure 1 — City Hotel and Resort Hotel Ratio Percentage Graph
 </p>
@@ -83,7 +85,9 @@ Figure 1 — City Hotel and Resort Hotel Ratio Percentage Graph
 From the above plot, it can be seen that City Hotels are more in demand by customers, with a percentage of bookings reaching 66.41%. These hotels are usually located in downtown or urban areas, close to attractions and businesses, so customers booking these hotels may have their main activity around where they are staying. On the other hand, Resort Hotels are only booked by 33.59% of customers. These hotels are usually located in beautiful places such as the seaside, mountains, or quiet rural areas and there are complete facilities. Customers who book this hotel allegedly have the goal of vacationing and relaxing in that place.
 
  ![download](https://github.com/prathmeshjani/Investigate-Hotel-Business-using-DataVisualization/assets/69078331/47948486-e45c-468b-97a2-822e0f2cf304)
-
+<div align="center">
+  <img src="https://github.com/prathmeshjani/Investigate-Hotel-Business-using-DataVisualization/assets/69078331/47948486-e45c-468b-97a2-822e0f2cf304" alt="Image Description" />
+</div>
 <p align = 'center'>
 Figure 2 — Graph of City Hotel and Resort Hotel Booking Numbers by Month
 </p>
@@ -101,13 +105,17 @@ This analysis focuses on the relationship between the duration of stay and the c
 
 
 ![image](https://github.com/prathmeshjani/Investigate-Hotel-Business-using-DataVisualization/assets/69078331/4ce5773f-6be4-4d68-8e31-0c172962b4da)
-
+<div align="center">
+  <img src="https://github.com/prathmeshjani/Investigate-Hotel-Business-using-DataVisualization/assets/69078331/4ce5773f-6be4-4d68-8e31-0c172962b4da" alt="Image Description" />
+</div>
 <p align = 'center'>
 Figure 3 — City Hotel Cancellation Percentage Graph
 </p>
 
 ![image](https://github.com/prathmeshjani/Investigate-Hotel-Business-using-DataVisualization/assets/69078331/abb2a463-7f12-462f-bd6e-c28b586ba60c)
-
+<div align="center">
+  <img src="https://github.com/prathmeshjani/Investigate-Hotel-Business-using-DataVisualization/assets/69078331/abb2a463-7f12-462f-bd6e-c28b586ba60c" alt="Image Description" />
+</div>
 <p align = 'center'>
 Figure 4 — Resort Hotel Cancellation Percentage Graph
 </p>
@@ -115,7 +123,9 @@ Figure 4 — Resort Hotel Cancellation Percentage Graph
 City hotels also have a higher cancellation rate than resort hotels. This shows that many customers who book City Hotels tend to cancel their orders more often. City Hotels have a more centralized location in the city or urban area and are close to tourist and business spots, predictably many activities have to be arranged and perhaps due to other factors, many customers cancel their orders.
 
 ![image](https://github.com/prathmeshjani/Investigate-Hotel-Business-using-DataVisualization/assets/69078331/3cd45f85-8620-4fd9-b3aa-b67465e463a2)
-
+<div align="center">
+  <img src="https://github.com/prathmeshjani/Investigate-Hotel-Business-using-DataVisualization/assets/69078331/3cd45f85-8620-4fd9-b3aa-b67465e463a2" alt="Image Description" />
+</div>
 <p align = 'center'>
 Figure 5 — Trends in Hotel Booking Cancellations Based on Duration of Stay
 </p>
@@ -132,7 +142,6 @@ Why the longer the duration of the stay causes the cancellation rate to increase
 
 Analysis was conducted to determine the correlation between order cancellation and lead time. Lead time is the waiting period or the time between hotel bookings and arrival times.
 
-![image](https://github.com/prathmeshjani/Investigate-Hotel-Business-using-DataVisualization/assets/69078331/cebb5383-4d74-4df4-afe7-8989c8502277)
 <div align="center">
   <img src="https://github.com/prathmeshjani/Investigate-Hotel-Business-using-DataVisualization/assets/69078331/cebb5383-4d74-4df4-afe7-8989c8502277" alt="Image Description" />
 </div>
