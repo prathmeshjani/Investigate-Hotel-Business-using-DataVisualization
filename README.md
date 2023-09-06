@@ -70,7 +70,10 @@ Table 1 - Assessment Data Results
 
 This analysis will be carried out to find out the trend of bookings for each type of hotel. This analysis can help companies better understand their market and customer needs, and enable them to improve operational efficiency and optimize revenue.
 
+![image](https://github.com/prathmeshjani/Investigate-Hotel-Business-using-DataVisualization/assets/69078331/a1fe3177-8717-43cf-8b8c-463547b4d75f)
+
 Figure 1 — City Hotel and Resort Hotel Ratio Percentage Graph
+
 
 From the above plot, it can be seen that City Hotels are more in demand by customers, with a percentage of bookings reaching 66.41%. These hotels are usually located in downtown or urban areas, close to attractions and businesses, so customers booking these hotels may have their main activity around where they are staying. On the other hand, Resort Hotels are only booked by 33.59% of customers. These hotels are usually located in beautiful places such as the seaside, mountains, or quiet rural areas and there are complete facilities. Customers who book this hotel allegedly have the goal of vacationing and relaxing in that place.
 
