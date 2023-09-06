@@ -22,6 +22,7 @@
       - Impact Analysis of Lead Time on Hotel Bookings Cancellation Rates
   - STAGE 3: Summary and Recommendations
 
+---- 
 
 # 📂 STAGE 0: Problem Statement
 
@@ -37,8 +38,10 @@ Business performance analysis is an important key for companies to achieve succe
     hotel bookings?
 
 
-**objective**
+**objective** \n
 Create data-based visualizations as insights for the hotel business
+
+----
 
 # 📂 STAGE 1: Data Preprocessing
 
@@ -62,7 +65,7 @@ Table 1 - Assessment Data Results
 | Inappropriate or inconsistent values | Meaning of 'Undefined' in the `meal` column | Values ​​of the meal column can be categorized into 2, namely 'With Meal' (Breakfast, Full Board, Dinner) and 'No Meal' (No Meal, Undefined) |
 | Anomaly data or unnecessary data |  - There are negative values ​​and outliers that are very far from the data distribution in the `adr` column - There are 180 data bookings that do not have guests. | Delete or drop these data rows |
 
-
+----
 
 # 📂 STAGE 2: Data Analysis 
 
@@ -144,6 +147,7 @@ City Hotels which are located in the city center and are frequently used for eve
 
 Resort hotels may be used more for vacations or recreation, so customers tend to stick more to their schedules and make fewer changes. Additionally, Resort Hotels that may target customers seeking a more exclusive experience, may be better able to maintain their order levels despite better offers elsewhere.
 
+----
 
 # 📂 STAGE 3: Summary and Recommendations
 
