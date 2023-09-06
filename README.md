@@ -97,13 +97,17 @@ In the period January - March, the lowest hotel booking rate. This is likely due
 This analysis focuses on the relationship between the duration of stay and the cancellation rate of hotel bookings. Based on data, about 19% of hotel orders made online are canceled before the customer arrives [source]. These cancellations can lead to reduced room availability and an impact on hotel revenue because each vacant room can become a financial burden on that day. In addition, if the hotel uses an Online Travel Agency (OTA), this cancellation rate can affect the hotel's ranking in search [source].
 
 
-Figure 3 — Hotel City Cancellation Percentage Graph
 
+![download](https://github.com/prathmeshjani/Investigate-Hotel-Business-using-DataVisualization/assets/69078331/47948486-e45c-468b-97a2-822e0f2cf304)
+Figure 3 — City Hotel Cancellation Percentage Graph![download](https://github.com/prathmeshjani/Investigate-Hotel-Business-using-DataVisualization/assets/69078331/c935212b-efd6-45fc-97cd-4276346a1976)
 
-Figure 4 — Hotel Resort Cancellation Percentage Graph
+![download](https://github.com/prathmeshjani/Investigate-Hotel-Business-using-DataVisualization/assets/69078331/47948486-e45c-468b-97a2-822e0f2cf304)
+Figure 4 — Resort Hotel Cancellation Percentage Graph
 
 
 City hotels also have a higher cancellation rate than resort hotels. This shows that many customers who book City Hotels tend to cancel their orders more often. City Hotels have a more centralized location in the city or urban area and are close to tourist and business spots, predictably many activities have to be arranged and perhaps due to other factors, many customers cancel their orders.
+
+![image](https://github.com/prathmeshjani/Investigate-Hotel-Business-using-DataVisualization/assets/69078331/3cd45f85-8620-4fd9-b3aa-b67465e463a2)
 
 Figure 5 — Trends in Hotel Booking Cancellations Based on Duration of Stay
 
@@ -118,6 +122,7 @@ Why the longer the duration of the stay causes the cancellation rate to increase
 
 Analysis was conducted to determine the correlation between order cancellation and lead time. Lead time is the waiting period or the time between hotel bookings and arrival times.
 
+![image](https://github.com/prathmeshjani/Investigate-Hotel-Business-using-DataVisualization/assets/69078331/cebb5383-4d74-4df4-afe7-8989c8502277)
 
 Figure 6 — Trend of Hotel Booking Cancellation Based on Lead Time
 
