@@ -17,10 +17,10 @@
       - [Data Overview](#data-overview)
       - [Data Assessment](#data-assessment)
   - [STAGE 2: Data Analysis](#-stage-2-data-analysis)
-      - [Monthly Hotel Booking Analysis Based on Hotel Type](#monthly-hotel-booking-analysis-based-on-hotel-type)
-      - [Impact Analysis of Stay Duration on Hotel Bookings Cancellation Rates](#impact-analysis-of-stay-duration-on-hotel-bookings-cancellation-rates)
-      - [Impact Analysis of Lead Time on Hotel Bookings Cancellation Rates](#impact-analysis-of-lead-time-on-hotel-bookings-cancellation-rates)
-  - [STAGE 3: Summary and Recommendations](#summary-and-recommendations)
+      - [Monthly Hotel Booking Analysis Based on Hotel Type](#1-monthly-hotel-booking-analysis-based-on-hotel-type)
+      - [Impact Analysis of Stay Duration on Hotel Bookings Cancellation Rates](#2-impact-analysis-of-stay-duration-on-hotel-bookings-cancellation-rates)
+      - [Impact Analysis of Lead Time on Hotel Bookings Cancellation Rates](#3-impact-analysis-of-lead-time-on-hotel-bookings-cancellation-rates)
+  - [STAGE 3: Summary and Recommendations](#-stage-3-summary-and-recommendations)
 
 ---- 
 
