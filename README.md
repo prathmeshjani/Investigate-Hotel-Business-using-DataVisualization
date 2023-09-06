@@ -38,7 +38,7 @@ Business performance analysis is an important key for companies to achieve succe
     hotel bookings?
 
 
-**objective** \n
+**objective** <br>
 Create data-based visualizations as insights for the hotel business
 
 ----
