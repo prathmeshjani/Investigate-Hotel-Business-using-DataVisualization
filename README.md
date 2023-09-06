@@ -7,12 +7,12 @@
 **Dataset** : Hotel_bookings_data.csv  
 
 
-**Table of Contents**
+## Table of Contents
 
- - STAGE 0: Problem Statement
-      - Introduction
-      - Business Questions
-      - Objective
+ - [STAGE 0: Problem Statement](# 📂 STAGE 0: Problem Statement)
+      - [Introduction](# Introduction)
+      - [Business Questions]
+      - [Objective]
   - STAGE 1: Data Preprocessing
       - Data Overview
       - Data Assessment
@@ -26,11 +26,11 @@
 
 ## 📂 STAGE 0: Problem Statement
 
-**Introduction**
+### Introduction
 
 Business performance analysis is an important key for companies to achieve success in their business. Companies can carry out an analysis to identify their problems, weaknesses, and strengths. In the hospitality business, it is important to understand customer behavior. By understanding customer behavior, companies can find out what factors influence customers in making hotel reservations. In addition, companies can also identify which products or services are not selling well in the market. This is done to adjust the appropriate business strategy so that the company can improve customer experience and achieve long-term business goals.
 
-**Business Questions**
+### Business Questions
 
   - What types of hotels are most frequently visited by customers?
   - Does the length of stay affect the cancellation rate of hotel bookings?
@@ -38,7 +38,8 @@ Business performance analysis is an important key for companies to achieve succe
     hotel bookings?
 
 
-**Objective** <br>
+### Objective <br>
+
 Create data-based visualizations as insights for the hotel business
 
 ----
@@ -46,10 +47,10 @@ Create data-based visualizations as insights for the hotel business
 
 ## 📂 STAGE 1: Data Preprocessing
 
-**Data Overview**
+### Data Overview
 The dataset consists of 29 columns and 119390 rows for the period 2017 - 2019.  
 
-**Data Assessment**
+## Data Assessment
 Data assessment is carried out to ensure that the data used for further analysis is ready and in accordance with the needs of the analysis. Things to do:
 
   - Checking for null or missing values ​​in data
@@ -161,29 +162,7 @@ Resort hotels may be used more for vacations or recreation, so customers tend to
 ----
 
 ## 📂 STAGE 3: Summary and Recommendations
-
-   1. Overall City Hotel is the most booked by customers. In both types of hotels, a significant increase in customers occurred during the holiday seasons, namely May-July and October-December.
-   Business recommendation:
-     - Companies can optimize the facilities and services at Resort Hotels, because Resort Hotels have a lower booking rate than City Hotels so that customers are more interested in booking rooms there. For example by adding facilities        such as a spa, gym or swimming pool, as well as providing more personal and friendly service to customers.
-     - The company can also maximize the City Hotel strategy, because it is in great demand by customers so it is more profitable. Companies can provide additional services for businesses, such as hall rooms or packages for meetings           such as seminars and so on.
-     - Increasing promotions during the holiday season, for example by providing special discounts for guests who book a certain number of rooms or providing attractive holiday packages. Companies can also consider applying non-               refundable to avoid canceling orders.
-     - For times of the off season, companies may combine flexible and non-refundable rates. Or can provide a special discount but non-refundable.
-
-
-  2. The cancellation rate will be higher along with the length of stay booked at both types of hotels. Cancellation rates at City Hotels increased significantly with the lowest percentage less than one week in duration. Resort hotels also tend to experience an increase in cancellation rates but are more stagnant and for stays of less than 2 weeks and more than 1 month tend to have lower cancellation rates.<br> <br>
-     Business recommendation:
-     - The company can ensure that it has a solid order cancellation policy in place. This is to protect the company from the impacts, such as revenue loss. Companies can provide or explain terms and conditions before they place an order both in online and offline orders. This can include information about refunds, cancellation fees, etc. Tighter cancellation policies can have a big impact. In addition, it can also reduce fraudulent bookings.
-     - Do a pricing strategy and limit the number of nights. Limiting the number of nights on a flexible rate over a one week span. In addition, it only provides non-refundable rates for longer stays. This is done to increase revenue and reduce the risk of unwanted cancellations.
-     - For other cancellation prevention companies can improve services or provide good pre-stay services to increase customer satisfaction so that it will reduce their tendency to cancel their orders.
-
-  
-  3. The lowest order cancellation for both types of hotels occurred at a lead time of less than one month. City Hotel has the highest cancellation rate at 1 year lead time.
-
-     - Both types of hotels can consider reducing lead times. By limiting available booking timeframes, hotels can ensure that customers only book when they are sure they will be staying at the hotel, thereby reducing the possibility of cancellation.
-     - City Hotels may also consider increasing their room rates to improve their profit margins and lower cancellation rates. By increasing room rates, customers may be more likely to reconsider before canceling their order.
-     - Sending reminders via email about their booking. This is done in order to stay connected and show the level of service the company provides. The company can inform you that the deadline is coming soon with its cancellation policy.
-     - Instead of canceling orders, companies can offer to reschedule and sell rooms that still have long lead times.
-     - 
+<br>
 
 1. Overall City Hotel is the most booked by customers. In both types of hotels, a significant increase in customers occurred during the holiday seasons, namely May-July and October-December.<br> <br>
    Business recommendation:
@@ -207,7 +186,7 @@ Resort hotels may be used more for vacations or recreation, so customers tend to
    
 ----
 
-**Source:**
+## Source:
 
 Delgado, Pablo. "Cancellations on Booking.com: 104% More than on the Hotel Website. Expedia, 31% More." Mirai, https://www.mirai.com/blog/cancellations-on-booking-com-104-more-than-on-the-hotel-website-expedia-31-more/.
 
