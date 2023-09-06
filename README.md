@@ -70,17 +70,22 @@ Table 1 - Assessment Data Results
 
 This analysis will be carried out to find out the trend of bookings for each type of hotel. This analysis can help companies better understand their market and customer needs, and enable them to improve operational efficiency and optimize revenue.
 
-<p align = 'center'>
-![image](https://github.com/prathmeshjani/Investigate-Hotel-Business-using-DataVisualization/assets/69078331/a1fe3177-8717-43cf-8b8c-463547b4d75f)
 
+
+ <p align="center">
+  <img src="![image](https://github.com/prathmeshjani/Investigate-Hotel-Business-using-DataVisualization/assets/69078331/a1fe3177-8717-43cf-8b8c-463547b4d75f)" alt="Your Image Description" width="200" height="200" />
+</p>
+
+<p align = 'center'>
 Figure 1 — City Hotel and Resort Hotel Ratio Percentage Graph
 </p>
 
 From the above plot, it can be seen that City Hotels are more in demand by customers, with a percentage of bookings reaching 66.41%. These hotels are usually located in downtown or urban areas, close to attractions and businesses, so customers booking these hotels may have their main activity around where they are staying. On the other hand, Resort Hotels are only booked by 33.59% of customers. These hotels are usually located in beautiful places such as the seaside, mountains, or quiet rural areas and there are complete facilities. Customers who book this hotel allegedly have the goal of vacationing and relaxing in that place.
 
+<p align="center">
+  <img src="![download](https://github.com/prathmeshjani/Investigate-Hotel-Business-using-DataVisualization/assets/69078331/47948486-e45c-468b-97a2-822e0f2cf304)" alt="Your Image Description" width="200" height="200" />
+</p>
 <p align = 'center'>
-![download](https://github.com/prathmeshjani/Investigate-Hotel-Business-using-DataVisualization/assets/69078331/47948486-e45c-468b-97a2-822e0f2cf304)
-
 Figure 2 — Graph of City Hotel and Resort Hotel Booking Numbers by Month
 </p>
 
