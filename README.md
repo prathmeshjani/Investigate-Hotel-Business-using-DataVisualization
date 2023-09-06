@@ -9,7 +9,7 @@
 
 ## Table of Contents
 
- - [STAGE 0: Problem Statement](#problem-statement)
+ - [STAGE 0: Problem Statement][📂](#stage-0-problem-statement)
       - [Introduction](#Introduction)
       - [Business Questions](#business-questions)
       - [Objective](#business-questions)
