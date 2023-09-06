@@ -70,15 +70,19 @@ Table 1 - Assessment Data Results
 
 This analysis will be carried out to find out the trend of bookings for each type of hotel. This analysis can help companies better understand their market and customer needs, and enable them to improve operational efficiency and optimize revenue.
 
+<p align = 'center'>
 ![image](https://github.com/prathmeshjani/Investigate-Hotel-Business-using-DataVisualization/assets/69078331/a1fe3177-8717-43cf-8b8c-463547b4d75f)
 
 Figure 1 — City Hotel and Resort Hotel Ratio Percentage Graph
-
+</p>
 
 From the above plot, it can be seen that City Hotels are more in demand by customers, with a percentage of bookings reaching 66.41%. These hotels are usually located in downtown or urban areas, close to attractions and businesses, so customers booking these hotels may have their main activity around where they are staying. On the other hand, Resort Hotels are only booked by 33.59% of customers. These hotels are usually located in beautiful places such as the seaside, mountains, or quiet rural areas and there are complete facilities. Customers who book this hotel allegedly have the goal of vacationing and relaxing in that place.
 
+<p align = 'center'>
+![download](https://github.com/prathmeshjani/Investigate-Hotel-Business-using-DataVisualization/assets/69078331/47948486-e45c-468b-97a2-822e0f2cf304)
 
 Figure 2 — Graph of City Hotel and Resort Hotel Booking Numbers by Month
+</p>
 
 Hotel bookings tend to increase during the holiday season, especially in the period May - August. The two types of hotels, namely City Hotels and Resort Hotels, had the highest booking value in that period, with a significant increase in City Hotels. This is likely due to the large number of national holidays in 2017-2019, such as collective leave and religious events (Ramadan) which allow people to take vacations. In addition, with the majority of Indonesia's population being Muslim and the existence of a culture of going home and gathering during Eid al-Fitr, it is possible for people to travel far and need a place to stay in the middle of the trip, so they can make hotel reservations.
 
