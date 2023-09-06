@@ -97,16 +97,13 @@ In the period January - March, the lowest hotel booking rate. This is likely due
 This analysis focuses on the relationship between the duration of stay and the cancellation rate of hotel bookings. Based on data, about 19% of hotel orders made online are canceled before the customer arrives [source]. These cancellations can lead to reduced room availability and an impact on hotel revenue because each vacant room can become a financial burden on that day. In addition, if the hotel uses an Online Travel Agency (OTA), this cancellation rate can affect the hotel's ranking in search [source].
 
 
-
-![download](https://github.com/prathmeshjani/Investigate-Hotel-Business-using-DataVisualization/assets/69078331/47948486-e45c-468b-97a2-822e0f2cf304)
+![image](https://github.com/prathmeshjani/Investigate-Hotel-Business-using-DataVisualization/assets/69078331/4ce5773f-6be4-4d68-8e31-0c172962b4da)
 
 <p align = 'center'>
 Figure 3 — City Hotel Cancellation Percentage Graph
 </p>
 
-![download](https://github.com/prathmeshjani/Investigate-Hotel-Business-using-DataVisualization/assets/69078331/c935212b-efd6-45fc-97cd-4276346a1976)
-
-![download](https://github.com/prathmeshjani/Investigate-Hotel-Business-using-DataVisualization/assets/69078331/47948486-e45c-468b-97a2-822e0f2cf304)
+![image](https://github.com/prathmeshjani/Investigate-Hotel-Business-using-DataVisualization/assets/69078331/abb2a463-7f12-462f-bd6e-c28b586ba60c)
 
 <p align = 'center'>
 Figure 4 — Resort Hotel Cancellation Percentage Graph
