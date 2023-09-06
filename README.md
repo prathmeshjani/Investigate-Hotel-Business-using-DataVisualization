@@ -38,7 +38,7 @@ Business performance analysis is an important key for companies to achieve succe
     hotel bookings?
 
 
-**objective** <br>
+**Objective** <br>
 Create data-based visualizations as insights for the hotel business
 
 ----
@@ -61,9 +61,9 @@ Table 1 - Assessment Data Results
 
 | Data Assessment | Finding | Handling |
 | -------- | -------- | -------- |
-| Missing values | There are null values ​​for `company`, `city`, `children`, and `agent` | - `company`: filled with 0, indicating the guest is not from the company - `agent`: filled with 0, indicating the guest made a reservation independently or not through an agent - `children`: filled with 0, indicating the guest does not bring children - `city`: filled with 'Undefined', because the city is not known with certainty |
+| Missing values | There are null values ​​for `company`, `city`, `children`, and `agent` | - `company`: filled with 0, indicating the guest is not from the company <br>- `agent`: filled with 0, indicating the guest made a reservation independently or not through an agent<br> - `children`: filled with 0, indicating the guest does not bring children<br> - `city`: filled with 'Undefined', because the city is not known with certainty |
 | Inappropriate or inconsistent values | Meaning of 'Undefined' in the `meal` column | Values ​​of the meal column can be categorized into 2, namely 'With Meal' (Breakfast, Full Board, Dinner) and 'No Meal' (No Meal, Undefined) |
-| Anomaly data or unnecessary data |  - There are negative values ​​and outliers that are very far from the data distribution in the `adr` column - There are 180 data bookings that do not have guests. | Delete or drop these data rows |
+| Anomaly data or unnecessary data |  - There are negative values ​​and outliers that are very far from the data distribution in the `adr` column<br> - There are 180 data bookings that do not have guests. | Delete or drop these data rows |
 
 ----
 
