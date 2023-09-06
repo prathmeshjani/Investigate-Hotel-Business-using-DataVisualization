@@ -82,8 +82,8 @@ This analysis will be carried out to find out the trend of bookings for each typ
 <p align = 'center'>
 Figure 1 — City Hotel and Resort Hotel Ratio Percentage Graph
 </p>
-
-From the above plot, it can be seen that City Hotels are more in demand by customers, with a percentage of bookings reaching 66.41%. These hotels are usually located in downtown or urban areas, close to attractions and businesses, so customers booking these hotels may have their main activity around where they are staying. On the other hand, Resort Hotels are only booked by 33.59% of customers. These hotels are usually located in beautiful places such as the seaside, mountains, or quiet rural areas and there are complete facilities. Customers who book this hotel allegedly have the goal of vacationing and relaxing in that place.
+<br>
+From the above plot, it can be seen that City Hotels are more in demand by customers, with a percentage of bookings reaching 66.41%. These hotels are usually located in downtown or urban areas, close to attractions and businesses, so customers booking these hotels may have their main activity around where they are staying. <br> On the other hand, Resort Hotels are only booked by 33.59% of customers. These hotels are usually located in beautiful places such as the seaside, mountains, or quiet rural areas and there are complete facilities. Customers who book this hotel allegedly have the goal of vacationing and relaxing in that place. <br> <br>
 
 <!-- ![download](https://github.com/prathmeshjani/Investigate-Hotel-Business-using-DataVisualization/assets/69078331/47948486-e45c-468b-97a2-822e0f2cf304) <!-->
 <div align="center">
@@ -92,7 +92,7 @@ From the above plot, it can be seen that City Hotels are more in demand by custo
 <p align = 'center'>
 Figure 2 — Graph of City Hotel and Resort Hotel Booking Numbers by Month
 </p>
-
+<br>
 Hotel bookings tend to increase during the holiday season, especially in the period May - August. The two types of hotels, namely City Hotels and Resort Hotels, had the highest booking value in that period, with a significant increase in City Hotels. This is likely due to the large number of national holidays in 2017-2019, such as collective leave and religious events (Ramadan) which allow people to take vacations. In addition, with the majority of Indonesia's population being Muslim and the existence of a culture of going home and gathering during Eid al-Fitr, it is possible for people to travel far and need a place to stay in the middle of the trip, so they can make hotel reservations.
 
 Meanwhile, during the holiday season, from October to December, hotel bookings also increased but tended to be lower than May - August. It is likely that many people prefer to celebrate holidays such as Christmas and New Year at home.
@@ -113,6 +113,7 @@ This analysis focuses on the relationship between the duration of stay and the c
 Figure 3 — City Hotel Cancellation Percentage Graph
 </p>
 
+<br> <br>
 <!-- ![image](https://github.com/prathmeshjani/Investigate-Hotel-Business-using-DataVisualization/assets/69078331/abb2a463-7f12-462f-bd6e-c28b586ba60c) <!-->
 <div align="center">
   <img src="https://github.com/prathmeshjani/Investigate-Hotel-Business-using-DataVisualization/assets/69078331/abb2a463-7f12-462f-bd6e-c28b586ba60c" alt="Image Description" />
@@ -120,8 +121,8 @@ Figure 3 — City Hotel Cancellation Percentage Graph
 <p align = 'center'>
 Figure 4 — Resort Hotel Cancellation Percentage Graph
 </p>
-
-City hotels also have a higher cancellation rate than resort hotels. This shows that many customers who book City Hotels tend to cancel their orders more often. City Hotels have a more centralized location in the city or urban area and are close to tourist and business spots, predictably many activities have to be arranged and perhaps due to other factors, many customers cancel their orders.
+<br>
+City hotels also have a higher cancellation rate than resort hotels. This shows that many customers who book City Hotels tend to cancel their orders more often. City Hotels have a more centralized location in the city or urban area and are close to tourist and business spots, predictably many activities have to be arranged and perhaps due to other factors, many customers cancel their orders. <br> <br>
 
 <!-- ![image](https://github.com/prathmeshjani/Investigate-Hotel-Business-using-DataVisualization/assets/69078331/3cd45f85-8620-4fd9-b3aa-b67465e463a2) -->
 <div align="center">
@@ -161,7 +162,7 @@ Resort hotels may be used more for vacations or recreation, so customers tend to
 
 ## 📂 STAGE 3: Summary and Recommendations
 <br>
-  1. Overall City Hotel is the most booked by customers. In both types of hotels, a significant increase in customers occurred during the holiday seasons, namely May-July and October-December.<br>
+   1. Overall City Hotel is the most booked by customers. In both types of hotels, a significant increase in customers occurred during the holiday seasons, namely May-July and October-December.<br>
    Business recommendation:
      - Companies can optimize the facilities and services at Resort Hotels, because Resort Hotels have a lower booking rate than City Hotels so that customers are more interested in booking rooms there. For example by adding facilities        such as a spa, gym or swimming pool, as well as providing more personal and friendly service to customers.
      - The company can also maximize the City Hotel strategy, because it is in great demand by customers so it is more profitable. Companies can provide additional services for businesses, such as hall rooms or packages for meetings           such as seminars and so on.
