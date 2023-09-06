@@ -9,18 +9,18 @@
 
 ## Table of Contents
 
- - [STAGE 0: Problem Statement](#📂STAGE0:ProblemStatement)
+ - [STAGE 0: Problem Statement](#STAGE0:ProblemStatement)
       - [Introduction](#Introduction)
-      - [Business Questions](#BusinessQuestions)
-      - [Objective](#Objective)
-  - [STAGE 1: Data Preprocessing](#📂STAGE1:DataPreprocessing)
-      - [Data Overview](#Objective)
-      - [Data Assessment](#Objective)
-  - [STAGE 2: Data Analysis](#📂STAGE2:DataAnalysis)
-      - [Monthly Hotel Booking Analysis Based on Hotel Type](#Monthly-Hotel-Booking-Analysis-Based-on-Hotel-Type)
+      - [Business Questions](#business-questions)
+      - [Objective](#business-questions)
+  - [STAGE 1: Data Preprocessing](#STAGE1:DataPreprocessing)
+      - [Data Overview](#data-overview)
+      - [Data Assessment](#data-assessment)
+  - [STAGE 2: Data Analysis](#STAGE2:DataAnalysis)
+      - [Monthly Hotel Booking Analysis Based on Hotel Type](#monthly-hotel-booking-analysis-based-on-hotel-type)
       - [Impact Analysis of Stay Duration on Hotel Bookings Cancellation Rates](#Impact-Analysis-of-Stay-Duration-on-Hotel-Bookings-Cancellation-Rates)
-      - [Impact Analysis of Lead Time on Hotel Bookings Cancellation Rates](#Impact-Analysis-of-Lead-Time-on-Hotel-Bookings-Cancellation-Rates)
-  - [STAGE 3: Summary and Recommendations](##📂STAGE3:-Summary-and-Recommendations)
+      - [Impact Analysis of Lead Time on Hotel Bookings Cancellation Rates](#impact-analysis-of-stay-duration-on-hotel-bookings-cancellation-rates)
+  - [STAGE 3: Summary and Recommendations](#STAGE3:-Summary-and-Recommendations)
 
 ---- 
 
