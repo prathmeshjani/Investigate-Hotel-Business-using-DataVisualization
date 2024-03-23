@@ -1,4 +1,4 @@
-# 🏬 Investigate Hotel Business using DataVisualization
+# 🏬 Investigate Hotel Business using Python
 
 **Tool** : Jupyter Notebook  
 **Programming Language** : Python  
